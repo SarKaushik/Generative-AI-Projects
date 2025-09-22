@@ -1,5 +1,9 @@
 # Oracle Digital Assistant with LangGraph Integration  
 
+![Architecture Diagram](./OCICHATBOT.png)
+
+
+
 ## 📌 Overview  
 This project demonstrates how to integrate **Oracle Digital Assistant (ODA)** with **LangGraph**, enabling a conversational agent that can:  
 
