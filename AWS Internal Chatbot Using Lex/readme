@@ -6,6 +6,10 @@ The chatbot is embedded into a website and can answer questions based on custom 
 
 This project demonstrates how to build a serverless AI chatbot without custom backend compute (no Lambda) by leveraging fully managed AWS services.
 
+
+
+
+
 💡 What it does:
 Handles natural language conversations using Amazon Lex
 Retrieves relevant documents from a knowledge base using vector embeddings
