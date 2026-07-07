@@ -1,7 +1,7 @@
 # Case Study: AWS Internal Chatbot Using Lex
 
 **Project:** Intelligent ERP Support Chatbot  
-**Duration:** Q3–Q4 2026  
+**Duration:** Q3–Q4 2025
 **Technologies:** Amazon Lex, AWS Bedrock, OpenSearch, S3, Claude LLM
 
 ---
