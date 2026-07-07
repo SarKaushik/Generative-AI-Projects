@@ -89,18 +89,46 @@ https://aws.amazon.com/blogs/machine-learning/deploy-a-web-ui-for-your-chatbot/
 - Store documents in Amazon S3
 - Prepare documents for embedding
 
+<!-- Screenshots for Upload Knowledge Base -->
+
+![Upload - sc1](./sc1.png)
+
+![Upload - sc2](./sc2.png)
+
 #### 2. Configure OpenSearch
 - Create vector index
 - Generate embeddings for documents
+
+<!-- Screenshot for OpenSearch -->
+
+![OpenSearch - sc5](./sc5.png)
 
 #### 3. Set up Amazon Lex
 - Define intents and utterances
 - Integrate with Bedrock for response generation
 
+<!-- Lex screenshots -->
+
+![Amazon Lex - LEX 2](./LEX%202.png)
+
+![Amazon Lex - LEX1](./LEX1.png)
+
+![Lex flow example - sc3](./sc3.png)
+
 #### 4. Connect RAG Flow
 - Retrieve relevant documents from OpenSearch
 - Pass context to Bedrock LLM
 
+<!-- RAG flow screenshot -->
+
+![RAG Flow - sc6](./sc6.png)
+
 #### 5. Embed Chatbot UI
 - Use AWS Web UI integration
 - Add chatbot to your website
+
+<!-- Chatbot UI screenshots -->
+
+![Chatbot UI - ChatBot1](./ChatBot1%20Using%20Lex.png)
+
+![Chatbot UI - Chatbot2](./Chatbot2_using_Lex.png)
