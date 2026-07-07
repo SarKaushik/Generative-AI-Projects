@@ -126,9 +126,6 @@ Analyzed three configurations:
 ---
 
 ## Conclusion
-
-### Key Takeaways for AI PMs:
-
 1. **RAG is production-ready** for enterprise Q&A
 2. **Eval discipline is non-negotiable** — golden sets guide architecture choices
 3. **Tradeoff analysis beats optimization** — 87% at lower cost outweighs 91% at 64% higher cost
