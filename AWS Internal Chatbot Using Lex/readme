@@ -1,4 +1,4 @@
-An AI-powered chatbot built using AWS-native services that combines Amazon Lex for conversational AI and Retrieval-Augmented Generation (RAG) using vector search to deliver accurate, context-aware responses.
+An AI-powered chatbot built using AWS-native services that combines Amazon Lex for conversational AI and Retrieval-Augmented Generation (RAG) using vector search to deliver accurate, context-aware [...]
 
 The chatbot is embedded into a website and can answer questions based on custom knowledge stored in AWS.
 
@@ -6,8 +6,7 @@ The chatbot is embedded into a website and can answer questions based on custom 
 
 This project demonstrates how to build a serverless AI chatbot without custom backend compute (no Lambda) by leveraging fully managed AWS services.
 
-
-
+![AWS Chatbot Architecture](https://github.com/SarKaushik/Generative-AI-Projects/blob/main/AWS%20Internal%20Chatbot%20Using%20Lex/Arch.png?raw=true)
 
 
 
@@ -50,7 +49,7 @@ HTML / CSS / JavaScript
 AWS Chatbot Web UI Integration
 🌐 Website Integration
 
-The chatbot is embedded into a website using AWS’s official chatbot UI approach:
+The chatbot is embedded into a website using AWS's official chatbot UI approach:
 
 https://aws.amazon.com/blogs/machine-learning/deploy-a-web-ui-for-your-chatbot/
 
